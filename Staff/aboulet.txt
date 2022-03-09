@@ -5,7 +5,6 @@ Surveillance entrepôt
 
 gants
 kit
-lampe
 lacrymo
 menottes
 cyno
