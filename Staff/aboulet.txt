@@ -8,3 +8,4 @@ kit
 lampe
 lacrymo
 taser
+menottes
