@@ -7,3 +7,4 @@ gants
 kit
 lampe
 lacrymo
+menottes
