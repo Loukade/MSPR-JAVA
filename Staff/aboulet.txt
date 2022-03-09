@@ -7,4 +7,3 @@ gants
 kit
 lacrymo
 menottes
-cyno
