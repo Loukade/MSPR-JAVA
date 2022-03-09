@@ -5,7 +5,5 @@ Surveillance entrepôt
 
 gants
 kit
-lampe
 lacrymo
-taser
 menottes
